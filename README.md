@@ -15,6 +15,14 @@ Cardiovascular diseases represent one of the leading causes of death related to 
 * the use of a biofeedback system to monitor the prescribed physical activities;
 * implant and test a prototype.
 
+## Media Appearances
+
+* <p>
+<a href="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2022/05/18/pesquisadores-do-rs-criam-jogo-para-estimular-pessoas-sedentarias-a-praticar-exercicios-fisicos.ghtml">Pesquisadores do RS criam jogo para estimular pessoas sedentárias a praticar exercícios físicos (in portuguese)</a>.
+</p>
+
+
+
 ## Members
 <p align="center">
     <img src="ufcspa.png" height="100"/> <img src="unisinos.png" height="100"/> <img src="ufpa.png" height="70"/> <img src="ufrgs.png" height="100"/>
