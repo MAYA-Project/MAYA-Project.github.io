@@ -17,10 +17,7 @@ Cardiovascular diseases represent one of the leading causes of death related to 
 
 ## Media Appearances
 
-* <p>
-<a href="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2022/05/18/pesquisadores-do-rs-criam-jogo-para-estimular-pessoas-sedentarias-a-praticar-exercicios-fisicos.ghtml">Pesquisadores do RS criam jogo para estimular pessoas sedentárias a praticar exercícios físicos (in portuguese)</a>.
-</p>
-
+* <a href="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2022/05/18/pesquisadores-do-rs-criam-jogo-para-estimular-pessoas-sedentarias-a-praticar-exercicios-fisicos.ghtml">Pesquisadores do RS criam jogo para estimular pessoas sedentárias a praticar exercícios físicos (in portuguese), May 2022</a>.
 
 
 ## Members
