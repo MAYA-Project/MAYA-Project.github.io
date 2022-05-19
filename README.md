@@ -18,6 +18,12 @@ Cardiovascular diseases represent one of the leading causes of death related to 
 ## Media Appearances
 
 * <a href="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2022/05/18/pesquisadores-do-rs-criam-jogo-para-estimular-pessoas-sedentarias-a-praticar-exercicios-fisicos.ghtml">Pesquisadores do RS criam jogo para estimular pessoas sedentárias a praticar exercícios físicos (in portuguese), May 2022</a>.
+* <a href="https://www.correiodopovo.com.br/jornalcomtecnologia/credencial-card%C3%ADaca-estudo-da-ufrgs-identifica-pacientes-pelos-batimentos-do-cora%C3%A7%C3%A3o-1.714940">Credencial cardíaca: estudo da Ufrgs identifica pacientes pelos batimentos do coração (in portuguese), October 2021</a>.
+* <a href="https://radios.ebc.com.br/tarde-nacional/2021/10/pesquisa-mostra-assinatura-cardiaca-como-nova-forma-de-seguranca">Entrevista na Rádio Nacional sobre a pesquisa com Biometria Cardíaca em IoT (in portuguese), October 2021</a>.
+* <a href="https://medicinasa.com.br/biometria-cardiaca/">Cientistas brasileiros avançam em estudos sobre Biometria Cardíaca (in portuguese), October 2021</a>.
+* <a href="https://soundcloud.com/jeferson-nobre-282079789/maya-security-biometria-cardiaca-radio-bandeirantes?si=f548e0f75a8c477caa915316ca67e3d7">
+Divulgação científica sobre biometria cardíaca no Jornal Tempo Real da Band RS (in portuguese), October 2021</a>.
+
 
 
 ## Members
